@@ -10,7 +10,7 @@
 ## About This Project
 proyek ini menggunakan laravel 8 dan menggunakan official image docker laravel yaitu sail. applikasi ini cukup sederhana. adapun flow nya user melakukan registrasi dan login lalu dapat melakukan post dan like serta unlike post, serta maildown ketika user melakukan like makan user yang membuat status akan menerima email yang bersangkutan
 
-##Screenshoots
+## Screenshoots
 <details>
     <summary>Part of this project</summary>
     <img src="screenshots/Home.png" name="Homepage">
