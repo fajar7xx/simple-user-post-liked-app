@@ -1,0 +1,25 @@
+ikuti tutorial dari traversy media di channel youtubenya yaitu
+https://youtu.be/MFh0Fd7BsjE
+https://youtu.be/MFh0Fd7BsjE?t=794 13:14
+https://youtu.be/MFh0Fd7BsjE?t=1328 22:08
+https://youtu.be/MFh0Fd7BsjE?t=2647 44:07
+https://youtu.be/MFh0Fd7BsjE?t=3510 58:30
+https://youtu.be/MFh0Fd7BsjE?t=4185 1:09:45
+https://youtu.be/MFh0Fd7BsjE?t=5660 1.34.20
+https://youtu.be/MFh0Fd7BsjE?t=6200 1.43.20
+https://youtu.be/MFh0Fd7BsjE?t=6839 1.53.59
+https://youtu.be/MFh0Fd7BsjE?t=7185 1.59.56
+https://youtu.be/MFh0Fd7BsjE?t=7762 2.09.22
+Fin
+
+tools yang di pakai:
+artisan view => composer require sven/artisan-view --dev
+tailwind css => https://tailwindcss.com/
+
+https://youtu.be/MFh0Fd7BsjE?t=1328
+
+bagian yang terlewat adalah magian pada authentikasi dan middleware
+pada saat like posting ada terjadi kesalahan
+untuk membuat component jika tidak bekerja dapat melakukan
+view:clear
+route:clear
